@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ManageMoney</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="shouye">首页</string>
+    <string name="jinrongxiangmu">金融项目</string>
+    <string name="touziguwen">投资顾问</string>
+    <string name="xinxizixun">信息咨询</string>
+    <string name="gainiantiyan">概念体验</string>
+    <string name="tuijianchanping">推荐产品</string>
+    <string name="simu">私募</string>
+    <string name="zichanguanli">资产管理</string>
+    <string name="xintuo">信托</string>
+    <string name="jijin">基金</string>
+    <string name="xiangmumingchen">项目名称</string>
+    <string name="shouyilv">收益率</string>
+    <string name="me">我</string>
+</resources>
